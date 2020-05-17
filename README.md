@@ -1,3 +1,3 @@
 # hello-world
 short description.
-This is learning how to ork with GIT.
+This is learning how to Work with GIT.
